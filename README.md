@@ -1,4 +1,4 @@
-# 📊 YouTube Trending Videos - AWS Data Engineering Project
+# 📊 YouTube Data Analysis - AWS Data Engineering Project
 
 A complete data engineering project that ingests, cleans, analyzes, and visualizes YouTube trending video data using AWS cloud services. Inspired by Darshil Parmar and Project Pro, this project demonstrates a full data lake pipeline and analytics dashboard using a real-world dataset.
 
